@@ -9,6 +9,8 @@
         "fetch": "^1.1.0"
     },
     "scripts": {
-        "start": "index.js"
+        "start": "index.js",
+        "build": "ng build",
+        "heroku-postbuild": "ng build --prod"
     }
 }
