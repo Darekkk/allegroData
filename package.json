@@ -9,6 +9,6 @@
         "fetch": "^1.1.0"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "index.js"
     }
 }
