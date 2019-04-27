@@ -1,6 +1,10 @@
 {
-    "name": "allegro",
-    "version": "0.0.0",
+    "name": "myapp",
+    "description": "a really cool app",
+    "version": "1.0.0",
+    "engines": {
+        "node": "11.11.0"
+    },
     "dependencies": {
         "fetch": "^1.1.0"
     }
